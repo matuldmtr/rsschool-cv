@@ -21,3 +21,27 @@ FSK        | Oct 2017 - Mar 2020 | Installer
 Salamin    | Sep 2014 - Aug 2017 | Engineer
 BSTM-2     | Aug 2011 - Sep 2014 | Engineer
 
+### Code Example:
+```
+fetch("./gallery.json").then((response) => {
+  return response.json().then((data) => {
+    console.log(data);
+  });
+});
+```
+### Skills:
+1. HTML
+2. CSS
+3. JavaScript
+4. GitHub
+5. Figma
+
+### Education:
+- Polack State University
+- 2005 - 2010
+- Heat and Gas Supply, Ventilation and Air Protection
+
+### Languages:
+- English - A2
+- Russian - native
+- Polish - B1
